@@ -1,7 +1,7 @@
 # Optimal Approach
 
-# Time complexcity -> O()
-# Space complexcity -> O()
+# Time complexcity -> O(n*m)
+# Space complexcity -> O(1)
 
 
 def searchmatrix(arr, target):
