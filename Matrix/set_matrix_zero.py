@@ -1,7 +1,7 @@
 # Optimal Approach
 
 # Time Colplexcity -> O(n * m)
-# Time Colplexcity -> O(n + m)
+# Space Colplexcity -> O(n + m)
 
 
 def func(mat):
