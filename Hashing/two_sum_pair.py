@@ -1,5 +1,8 @@
 # Brute Force
 
+# Time Complexcity -> O(N^2)
+# Space Complexcity -> O(1)
+
 
 def twoSum(arr, target):
     n = len(arr)
