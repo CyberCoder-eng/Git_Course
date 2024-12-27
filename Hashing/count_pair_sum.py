@@ -18,6 +18,12 @@ target = 6
 print(func1(arr, target))
 
 
+# Optimal Approach
+
+# Time complexcity -> O(N)
+# Space complexcity -> O(N)
+
+
 def func(arr, target):
     freq = dict()
     ans = 0
