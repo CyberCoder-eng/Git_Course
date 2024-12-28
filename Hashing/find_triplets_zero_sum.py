@@ -1,5 +1,8 @@
 # Optimize Approach
 
+# Time complexcity -> O(N^2)
+# Time complexcity -> O(N^2)
+
 
 class Solution:
     def findTriplets(self, arr):
