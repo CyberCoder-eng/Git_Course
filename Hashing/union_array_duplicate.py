@@ -1,3 +1,8 @@
+# Brute Force
+# Time complexcity -> O(N + M)
+# Space complexcity -> O(N + M)
+
+
 def union_arr(a, b):
     return len(set(a).union(set(b)))
 

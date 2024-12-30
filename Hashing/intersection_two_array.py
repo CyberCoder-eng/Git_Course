@@ -1,5 +1,8 @@
 # Optimal Approach
 
+# Time complexcity -> O(N + M)
+# Space complexcity -> O(N + M)
+
 
 def func(a, b):
     res = []
