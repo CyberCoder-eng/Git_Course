@@ -1,3 +1,6 @@
+# Optimal Approach
+
+
 def func(a, b):
     res = []
     set_b = set(b)
