@@ -18,9 +18,8 @@ def longSubsequnce(arr):
 arr = [2, 6, 9, 4, 1, 5, 3]
 print(longSubsequnce(arr))
 
+
 # Optimal Approach
-
-
 # Time complexcity -> O(N)
 # Space complexcity -> O(N)
 def func(arr):
