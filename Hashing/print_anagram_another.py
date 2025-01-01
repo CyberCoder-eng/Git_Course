@@ -1,3 +1,8 @@
+# Optimal Approach
+
+
+# Time Comolexcity -> O(n * k log k)
+# Space Comolexcity -> O(n * k)
 def anagram(arr):
     hash_map = dict()
     for char in range(len(arr)):
