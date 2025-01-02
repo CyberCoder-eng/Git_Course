@@ -1,6 +1,6 @@
 # Optimal Code
-
-
+# Time Complexcity -> O(N)
+# Space Complexcity -> O(N)
 def func(arr, k):
     count = 0
     total = 0
