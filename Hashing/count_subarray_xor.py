@@ -1,7 +1,10 @@
 # Optimal Code
 
+# Time complexcity -> O(N)
+# Space complexcity -> O(N)
 
-def func(arr, k):
+
+def subarrayXor(arr, k):
     hash_map = dict()
     count = 0
     xor = 0
@@ -18,4 +21,4 @@ def func(arr, k):
 
 arr = [4, 2, 2, 6, 4]
 k = 6
-print(func(arr, k))
+print(subarrayXor(arr, k))
