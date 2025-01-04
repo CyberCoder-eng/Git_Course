@@ -1,3 +1,6 @@
+# Optimal Code
+
+
 def countTriplets(arr, target):
     # code here
     n = len(arr)
