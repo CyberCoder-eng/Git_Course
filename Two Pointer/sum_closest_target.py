@@ -1,6 +1,10 @@
 # Optimize Code
 
 
+# Time complexity -> O(n log n)
+# Time complexity -> O(1)
+
+
 def func(arr, target):
     arr.sort()
     n = len(arr)
