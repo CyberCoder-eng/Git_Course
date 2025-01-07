@@ -1,5 +1,8 @@
 # Brute Force
 
+# Time complexity -> O(n^2)
+# Space complexity -> O(1)
+
 
 def countPair(arr, target):
     n = len(arr)
@@ -17,6 +20,9 @@ print(countPair(arr, target))
 
 
 # Optimize code
+
+# Time complexity -> O(n)
+# Space complexity -> O(n)
 
 
 def func(arr, target):
