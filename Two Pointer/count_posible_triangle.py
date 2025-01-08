@@ -1,3 +1,9 @@
+# Optimize Approach
+
+# Time complexity -> O(N^2)
+# Space complexity -> O(1)
+
+
 def countTriangles(arr):
     count = 0
     arr.sort()
