@@ -1,3 +1,8 @@
+# Optimall Code
+
+
+# Time Complexity -> O(N)
+# Space Complexity -> O(N)
 def countWindow(arr, k):
     hash_map = dict()
     res = []
