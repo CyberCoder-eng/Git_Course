@@ -5,6 +5,10 @@ def uniqueChar(s):
     return len(set(s))
 
 
+s = "geeksforgeeks"
+print(uniqueChar(s))
+
+
 # Better Code
 
 # Time Complexity -> O(N^2)
@@ -28,8 +32,8 @@ print(func(s))
 
 
 # Optimal Code
-
-
+# Time complexity -> O(N)
+# Space complexity -> O(N)
 def longestUniquechar(s):
     hash_map = dict()
     count = 0
