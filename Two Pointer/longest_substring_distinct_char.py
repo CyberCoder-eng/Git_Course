@@ -1,3 +1,16 @@
+# Brute Force
+
+
+def uniqueChar(s):
+    return len(set(s))
+
+
+# Better Code
+
+# Time Complexity -> O(N^2)
+# Space Complexity -> O(1)
+
+
 def func(s):
     res = ""
     count = 0
@@ -12,6 +25,9 @@ def func(s):
 
 s = "geeksforgeeks"
 print(func(s))
+
+
+# Optimal Code
 
 
 def longestUniquechar(s):
