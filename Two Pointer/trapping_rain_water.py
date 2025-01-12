@@ -1,3 +1,6 @@
+# Optimal Code
+
+
 def Maxwater(arr):
     n = len(arr)
     res = 0
