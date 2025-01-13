@@ -1,17 +1,25 @@
-# def func(arr):
-#     n = len(arr)
-#     res = 0
-#     for i in range(n):
-#         for j in range(i + 1, 1):
-#             mini = min(arr[i], arr[j]) * (j - i)
-#             res = max(mini, res)
-#     return res
+# Brute Force
+# Time complexity -> O(N^2)
+# Space complexity -> O(1)
+def func(arr):
+    n = len(arr)
+    res = 0
+    for i in range(n):
+        for j in range(i + 1, 1):
+            mini = min(arr[i], arr[j]) * (j - i)
+            res = max(mini, res)
+    return res
 
 
-# arr = [1, 5, 4, 3]
-# print(func(arr))
+arr = [1, 5, 4, 3]
+print(func(arr))
 
 
+# Optimal Code
+
+
+# Time complexity -> O(N)
+# Space complexity -> O(1)
 def maxwater(arr):
     n = len(arr)
     left, right = 0, n - 1
