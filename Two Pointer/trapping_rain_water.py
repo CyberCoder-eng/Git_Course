@@ -1,4 +1,8 @@
 # Optimal Code
+# Sliding Window
+
+# Time complexity -> O(N)
+# Space complexity -> O()
 
 
 def Maxwater(arr):
