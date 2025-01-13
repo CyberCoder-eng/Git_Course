@@ -2,7 +2,7 @@
 # Sliding Window
 
 # Time complexity -> O(N)
-# Space complexity -> O()
+# Space complexity -> O(1)
 
 
 def Maxwater(arr):
