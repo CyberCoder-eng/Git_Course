@@ -1,5 +1,7 @@
 # function Template for python3
 
+# Optimize Code
+
 """
 # Node Class
 
