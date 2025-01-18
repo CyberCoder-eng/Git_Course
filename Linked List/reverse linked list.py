@@ -1,6 +1,8 @@
 # function Template for python3
 
 # Optimize Code
+# Time complexity -> O(N)
+# Space complexity -> O(1)
 
 """
 # Node Class
