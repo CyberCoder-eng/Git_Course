@@ -1,5 +1,8 @@
 # Optimal Code
 
+# Time Complexity -> O(N)
+# Space Complexity -> O(1)
+
 
 def rotate(self, head, k):
     temp = head
