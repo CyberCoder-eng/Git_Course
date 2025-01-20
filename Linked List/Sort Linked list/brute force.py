@@ -1,3 +1,9 @@
+"""
+Time complexity -> O(N) + O(NlogN) + O(N)
+Space complexity -> O(1)
+"""
+
+
 def sortLinked(head):
     temp = head
     res = []
