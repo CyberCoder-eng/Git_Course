@@ -5,6 +5,9 @@
 # Input: head: 1 -> 3 -> 4, pos = 2
 # Output: true
 
+# Input: head: 1 -> 8 -> 3 -> 4, pos = 0
+# Output: false
+
 
 def detectLoop(self, head):
     slow = head
