@@ -1,5 +1,8 @@
+# Optimal Code
+
+
 # Time complexity -> O(N)
-# Time complexity -> O(1)
+# Space complexity -> O(1)
 
 
 # Input: head: 1 -> 3 -> 4, pos = 2
