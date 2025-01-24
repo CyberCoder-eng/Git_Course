@@ -2,6 +2,10 @@
 # Time complexity -> O(1)
 
 
+# Input: head: 1 -> 3 -> 4, pos = 2
+# Output: true
+
+
 def detectLoop(self, head):
     slow = head
     fast = head
