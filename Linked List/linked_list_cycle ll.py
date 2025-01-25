@@ -1,6 +1,9 @@
 # head = 1->3->2->4->5
 # output: 3
 
+# head = 1->3->2->1
+# output: -1
+
 # Optimal Code
 # Time complexity -> O(N)
 # Space complexity -> O(1)
