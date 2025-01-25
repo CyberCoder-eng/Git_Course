@@ -1,6 +1,10 @@
 # head = 1->3->2->4->5
 # output: 3
 
+# Optimal Code
+# Time complexity -> O(N)
+# Space complexity -> O(1)
+
 
 def findFirstNode(self, head):
     slow = head
