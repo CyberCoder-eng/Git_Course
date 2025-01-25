@@ -1,3 +1,7 @@
+# head = 1->3->2->4->5
+# output: 3
+
+
 def findFirstNode(self, head):
     slow = head
     fast = head
