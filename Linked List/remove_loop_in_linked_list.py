@@ -7,6 +7,9 @@
 # head = 1 -> 8 -> 3 -> 4, pos = 0
 # Output: true
 
+# Time complexity -> O(N)
+# Space complexity -> O(1)
+
 
 def removeLoop(self, head):
     if not head:
